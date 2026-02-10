@@ -2,7 +2,7 @@
 Hello everyone, I'm Natanaël Eloy, I'm 16 and I love codding. I'm actually working as an aprentice baker in France 🇫🇷🥖👨‍🎨 ! I hope you'll enjoy my work !! :3
 
 # My Computer
-Here you can see my my computer with link to the products:
+Here you can see my my computer parts with link to the products:
 
 **MAIN PC:**
 - CASE: [YEYIAN Phoenix](https://amzn.eu/d/0icTSNGN) (80€)
