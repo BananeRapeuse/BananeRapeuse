@@ -14,7 +14,7 @@ Here you can see my my computer parts with link to the products:
 **SECONDARY PC:**
 Not started the build yet but I'll use it to stream in 4K and also when I go far of my house I will have this pc to play
 
-**Screens:**
+# Screens:
 ### Main PC:
 - 1440p 27" QD-Oled 360Hz ROG (Main monitor)
 - 1080p 25" IPS 320Hz AMZFAST (Secondary monitor)
